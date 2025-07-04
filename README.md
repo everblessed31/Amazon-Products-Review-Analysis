@@ -67,6 +67,14 @@ E-commerce platforms host a wide range of products, but decision-makers often la
 - **Column Bar Chart**: Actual Price vs Average Discount  
 - **Pie Chart**: Count of Products per Category
 
+
+![cleaned_amazon_data-----j-1](https://github.com/user-attachments/assets/606057f3-1b50-4642-8510-c89e9b123cfc)
+
+
+
+
+
+
 ## 👤 Author  
 **Blessing Ogar**  
 Junior Data Analyst | Passionate about e-commerce insights and visualization
